@@ -18,7 +18,7 @@ function App() {
 
 
 
-  const URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyBkmXP8pZ3SZQaghLwHvSCWuc8Fmx0NCgY";
+  const URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyDJkqzHWwO-JSvfVTzR0CctpmcKDVjVCCE";
 
   const askquestion = async () => {
 
